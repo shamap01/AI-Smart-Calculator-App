@@ -142,7 +142,3 @@ cd ai-smart-calculator
 npm start
 
 
-Voice Input: Allow voice-based math problem input
-
-This calculator provides a solid foundation and can be extended with more advanced mathematical capabilities and AI features as needed!
-
