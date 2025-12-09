@@ -68,3 +68,94 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+🧮 Core Features:
+Math Problem Solving
+
+Basic arithmetic (+, -, *, /)
+
+Parentheses handling
+
+Exponents (^)
+
+Square roots (√)
+
+Trigonometric functions (sin, cos, tan)
+
+Logarithms (log, ln)
+
+Step-by-Step Explanations
+
+Detailed breakdown of each calculation step
+
+Mathematical explanations for operations
+
+Order of operations (PEMDAS) enforcement
+
+Smart Input System
+
+Two input modes: Standard and Scientific
+
+Quick symbol insertion buttons
+
+Example expressions to try
+
+Keyboard support (Enter to solve)
+
+User Interface Features
+
+Modern gradient design
+
+Responsive layout
+
+Calculation history
+
+Error handling with helpful messages
+
+Loading states
+
+
+🎯 How to Use:
+Enter a math expression in the input field
+
+Use quick buttons for symbols or load examples
+
+Click "Solve" or press Enter
+
+View the result and step-by-step solution
+
+Check history for previous calculations
+
+
+🔧 Installation & Setup:
+
+# Create a new React app
+npx create-react-app ai-smart-calculator
+cd ai-smart-calculator
+
+# Replace the default files with the provided code
+# Copy App.jsx content to src/App.js
+# Copy App.css content to src/App.css
+
+# Install and run
+npm start
+
+
+🚀 Future Enhancement Ideas:
+AI Integration: Connect to GPT-4/Claude for natural language math solving
+
+Graph Plotting: Visualize equations and functions
+
+Unit Conversion: Convert between different measurement units
+
+Equation Solving: Solve for variables in equations
+
+Matrix Operations: Add matrix calculations
+
+Export Options: Save solutions as PDF or image
+
+Voice Input: Allow voice-based math problem input
+
+This calculator provides a solid foundation and can be extended with more advanced mathematical capabilities and AI features as needed!
+
